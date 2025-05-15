@@ -8,7 +8,7 @@
 
 This post is the first in a new series exploring how AI-powered GPT agents can be applied to solve real-world problems — starting with health, sport, and youth wellbeing.
 
-For this proof-of-concept (PoC), I (Stewart) partnered with **Jocelyne Verity**, a health executive with 15 years of experience spanning PwC, EY, Canadian Mental Health Association, and Southlake Regional Health Centre. Together, we’re collaborating on AI advisory with a purpose — using AI for good.
+For this proof-of-concept (PoC), I (Stewart) partnered with **Jocelyne Verity**, a health leader and consultant with 15 years of experience spanning PwC, EY, Canadian Mental Health Association, and Southlake Health. Together, we’re collaborating on AI advisory with a purpose — using AI for good.
 
 ---
 
